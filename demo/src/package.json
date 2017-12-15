@@ -1,0 +1,16 @@
+{
+  "name": "ng2-google-charts-demo",
+  "version": "3.3.0",
+  "dependencies": {
+    "moment": "*",
+    "ng2-google-charts": "~3.3.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "*",
+    "@angular/compiler": "*",
+    "@angular/core": "*",
+    "@angular/forms": "*",
+    "typescript": "*",
+    "rxjs": "*"
+  }
+}
